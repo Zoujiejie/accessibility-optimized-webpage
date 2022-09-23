@@ -10,7 +10,7 @@
 - Make the code more readable in structure
 
 ## Skills
-- Use semantic elements like <form> <section> <table>, ect. to replace non-semantic element like <div>, <span>, etc.
+- Use semantic elements like to replace non-semantic elements
 
 ## Credits
 - https://www.w3schools.com 
